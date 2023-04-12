@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2346070d_002D408b_002D497d_002Da649_002Df1b9766d3627/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SingleLinkedListTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Lists.Tests.SingleLinkedListTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba5b67c7_002Dab38_002D4bd9_002Dac73_002De2a81c8fad43/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PriorityQueueTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Queue.Tests.PriorityQueueTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Queue.Tests.SimpleQueueTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Lists.Tests.SingleLinkedListTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Lists.Tests.DoubleLinkedListTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Stack.Tests.StackTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Deque.Tests.DequeTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c4ca3ba7_002De0b4_002D43f4_002D8f6e_002D869348b565ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SingleLinkedListTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Lists.Tests.DoubleLinkedListTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Lists.Tests.SingleLinkedListTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Stack.Tests.StackTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Queue.Tests.SimpleQueueTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Queue.Tests.PriorityQueueTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
