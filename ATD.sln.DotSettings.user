@@ -1,10 +1,21 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/daria/Library/Caches/JetBrains/Rider2022.3/resharper-host/temp/Rider/vAny/CoverageData/_ATD.-2150118/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=006024b5_002D3899_002D4e4b_002D87a9_002De20f491a276c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RedBlackTreeTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.RedBlackTreeTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1c58673b_002D1d6b_002D4615_002D9319_002D5ade677b1704/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestInsertAndRemoveMultipleNodes" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.RedBlackTreeTests.TestInsertAndRemoveMultipleNodes&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2346070d_002D408b_002D497d_002Da649_002Df1b9766d3627/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SingleLinkedListTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Lists.Tests.SingleLinkedListTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba5b67c7_002Dab38_002D4bd9_002Dac73_002De2a81c8fad43/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PriorityQueueTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba5b67c7_002Dab38_002D4bd9_002Dac73_002De2a81c8fad43/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PriorityQueueTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Queue.Tests.PriorityQueueTests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Queue.Tests.SimpleQueueTests&lt;/TestId&gt;
@@ -12,6 +23,14 @@
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Lists.Tests.DoubleLinkedListTests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Stack.Tests.StackTests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Deque.Tests.DequeTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.BinarySearchTreeTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.RedBlackTreeTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.ITreeTests.Insert_DuplicateKey_ShouldUpdateValue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bc0bbc32_002Dd277_002D4f54_002Da665_002D763666ff8740/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RedBlackTreeTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.RedBlackTreeTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c4ca3ba7_002De0b4_002D43f4_002D8f6e_002D869348b565ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SingleLinkedListTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
@@ -21,5 +40,13 @@
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Stack.Tests.StackTests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Queue.Tests.SimpleQueueTests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Queue.Tests.PriorityQueueTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cea9f2e4_002D73cf_002D4a5d_002Dac9a_002Dd98f47638b88/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestInsertAndRemoveMultipleNodes #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.RedBlackTreeTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.BinarySearchTreeTests.Delete_RootNode_ShouldDeleteAndNotFind&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.RedBlackTreeTests.Delete_RootNode_ShouldDeleteAndNotFind&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EF0FF3DE-2497-48DC-8359-D82952A7221B::net7.0::ATD.Trees.Tests.TrieTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
